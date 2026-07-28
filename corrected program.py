@@ -1,4 +1,4 @@
-#Y.Mukhesh
+#V.Pradyum
 #corrected program
 x=10
 if x > 0 :
