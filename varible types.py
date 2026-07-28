@@ -1,6 +1,6 @@
-#Y.Mukhesh
+#v.pradyum
 #declare variables and types
-name = "Mukhesh"
+name = "Pradyum"
 age = 19
 height = 5.6
 student = True
