@@ -1,4 +1,4 @@
-#Y.Mukhesh
+#V.pradyum
 #multiple assignment
 a, b, c = 10, 20, 30
 print(a)
