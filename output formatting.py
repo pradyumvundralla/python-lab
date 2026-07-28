@@ -1,12 +1,12 @@
-#Y.Mukhesh
+#V.pradyum
 #output formatting methods
-name = "Mukhesh"
-marks = 96
+name = "Pradyum"
+marks = 80
 print("Name:", name, "Marks:", marks)
 print("Name: {} Marks: {}".format(name, marks))
 print(f"Name: {name} Marks: {marks}")
 
 #output
-#Name: Mukhesh Marks: 96
-#Name: Mukhesh Marks: 96
-#Name: Mukhesh Marks: 96
+#Name: Mukhesh Marks: 80
+#Name: Mukhesh Marks: 80
+#Name: Mukhesh Marks: 80
